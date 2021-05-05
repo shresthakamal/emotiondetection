@@ -8,12 +8,6 @@ from flask_pymongo import PyMongo
 def init_app():
     app = Flask(__name__)
 
-    # app.config("mongodb://db:27017/emotion_detection")
-    # mongo = PyMongo(app)
-    # db = mongo.db
-    # db = client["emotiondetection"]
-    # CORS(app)
-
     app_routes(app)
 
     return app
