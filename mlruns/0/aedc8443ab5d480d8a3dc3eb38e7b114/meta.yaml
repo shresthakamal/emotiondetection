@@ -1,0 +1,15 @@
+artifact_uri: file:///home/kamal/Downloads/Training%20for%20AI%20Engineers/mlruns/0/aedc8443ab5d480d8a3dc3eb38e7b114/artifacts
+end_time: 1610043273147
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+name: ''
+run_id: aedc8443ab5d480d8a3dc3eb38e7b114
+run_uuid: aedc8443ab5d480d8a3dc3eb38e7b114
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1610043273140
+status: 3
+tags: []
+user_id: kamal

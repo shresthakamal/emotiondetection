@@ -1,0 +1,1 @@
+parameters = {"multinominal_naive_bayes": {}}

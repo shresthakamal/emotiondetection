@@ -1,0 +1,15 @@
+artifact_uri: file:///home/kamal/Downloads/Training%20for%20AI%20Engineers/emotiondetection/notebooks/mlruns/0/ed4141264a5b4a63b7d4c6f2813d0bce/artifacts
+end_time: 1609896669655
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+name: ''
+run_id: ed4141264a5b4a63b7d4c6f2813d0bce
+run_uuid: ed4141264a5b4a63b7d4c6f2813d0bce
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1609896669501
+status: 3
+tags: []
+user_id: kamal

@@ -1,0 +1,1 @@
+MODEL = {1: "multinominal_naive_bayes"}

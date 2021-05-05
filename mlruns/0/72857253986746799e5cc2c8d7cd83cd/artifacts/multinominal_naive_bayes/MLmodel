@@ -1,0 +1,13 @@
+artifact_path: multinominal_naive_bayes
+flavors:
+  python_function:
+    env: conda.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    python_version: 3.6.12
+  sklearn:
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 0.23.2
+run_id: 72857253986746799e5cc2c8d7cd83cd
+utc_time_created: '2021-01-07 18:24:42.248919'
